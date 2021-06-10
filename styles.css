@@ -184,9 +184,6 @@ main {
   border-radius: 2px;
 }
 
-.card-single h1 + span {
-}
-
 .card-single div:last-child span {
   font-size: 3rem;
   color: var(--main-color);
